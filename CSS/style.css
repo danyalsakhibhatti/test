@@ -1,0 +1,35 @@
+#bg-section{
+    background:linear-gradient(rgba(25,135,84,.7) 0%, rgba(0,0,0,.7) 100%), url(../images/bg.jpg);
+    height: 90vvh;
+}
+#login-section{
+    height: 95vh;
+    background:linear-gradient(rgba(25,135,84,.7) 0%, rgba(0,0,0,.7) 100%), url(../images/bg.jpg);
+}
+#home-section{
+   background:linear-gradient(rgba(25,135,84,.7) 0%, rgba(0,0,0,.7) 100%), url(../images/bg.jpg);
+    height: 600px;
+}
+.text-justify{
+    text-align: justify;
+}
+.sidebar .nav-link.active{
+    color: white !important;
+}
+.sidebar .nav-link{
+    color: white !important;
+}
+#comparison-section{
+    padding: 100px 0px;
+}
+#mylistgroup{
+    min-height: 495px;
+}
+#mylistgroup .list-group-item{
+    padding: 25px 10px;
+    background-color: transparent;
+    border: 1px solid rgba(255, 255, 255, 0.125);
+}
+.list-group-item{
+    padding: 25px 10px;
+}
